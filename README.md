@@ -6,4 +6,4 @@ This project is about creating a smartphone app that would allow making video wi
 
 Using its phone embedded camera, the director will be able to record video with JCVD performance incrustated in live. When pressing stop, the recorded audio and video are mixed together and shareable on youtube or vimeo.
 
-This project is non lucrative so let's make it big! Have a look on the issues if you want to contribute.
+Have a look on the issues if you want to contribute. This project is non lucrative so let's make it big!
